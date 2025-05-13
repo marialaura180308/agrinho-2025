@@ -218,6 +218,41 @@ a.cabecalho__botao {
     color: var(--verde-principal);
     font-size: 14px;
 }
+/* Rodapé */
+.rodape__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
+}
+.lista__link  a {
+    text-decoration: none;
+    color: var(--verde-principal);
+    margin-left: 1em;
+}
+.rodape__texto {
+    margin: 1em  0em  0em;
+    color: var(--verde-principal);
+    font-size: 14px;
+}
+.rodape {
+    background-color: var(--verde-secundario);
+    text-align: center;
+    margin: 5em  0em  0em;
+}
+.rodape__logo {
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+.rodape__agrinho {
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+    border-radius: 5%;
+}
 .rodape {
     background-color: var(--verde-secundario);
     text-align: center;
