@@ -117,3 +117,15 @@ a.cabecalho__botao {
     color: var(--preto-titulo);
     font-size: 30px;
 }
+/* estilo seção 3*/
+.secao3__imagem {
+    background-image: url("img/mel.png");
+}
+.secao3__texto {
+    margin: 30%  0  30%  0;
+}
+.secao3__info {
+    width: 95%;
+    padding: 1em;
+    text-align: center;
+}a
