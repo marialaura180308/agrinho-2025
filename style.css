@@ -31,7 +31,7 @@ a.cabecalho__botao:link {
     color: #fff;
 }
 a:visited {
-    color: var(--branco-principal);
+    color: var(--preto-titulo);
 }
 a:hover {
     text-decoration: underline;
